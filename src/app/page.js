@@ -35,7 +35,6 @@ export default function LandingPage() {
         src="https://loader.pretasystems.com/?d=saas-nextjs-flax.vercel.app"
         data-api="https://app.pretasystems.com/api"
         data-debug="true"
-        integrity="sha384-gyHBVRBWHZdFzALPXD9DH4EhaFs0DyfCKuVDl7pVhjv9cGpbuSedv/Nt8UnU72pH"
         crossOrigin="anonymous"
       />
       <main className="flex-1">
